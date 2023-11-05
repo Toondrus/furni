@@ -1,8 +1,8 @@
-section {font-family: 'Noah Regular';}
+section {color: white; font-family: 'Noah Regular';}
 header {padding: 10px 20px; background: #666; color: white; font-family: 'Geologica Regular';}
 h1 {color: white; font-family: 'Geologica Regular'; font-size: 36px; text-align: center;}
 h2 {color: white; font-family: 'Geologica Regular'; font-size: 24px; text-align: center;}
 body {background-color: black;}
-section {color: white; text-align: center; margin-left: auto; margin-right: auto; width: 45em}
 footer {padding: 10px 20px; background: #666; color: white; text-align: left;}
 aside {text-align: center; font-size: 20px;}
+p {text-align: center; margin-left: auto; margin-right: auto; width: 45em}
